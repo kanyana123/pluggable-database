@@ -9,5 +9,5 @@
 ![4](https://github.com/user-attachments/assets/a862d329-cdd4-43ea-8fc2-86a82ccf9ad7)
 
 
-## oracle entreprise manager
+## oracle enterprise manager
 ![oracle enterprise manager1](https://github.com/user-attachments/assets/48e34ac9-cf62-4e5a-9a26-70389915fb91)
