@@ -1,5 +1,5 @@
 # pluggable-database
-![Uploading 1.PNG…]()
+
 ![1](https://github.com/user-attachments/assets/6c367613-e02b-4ed9-aba6-1153512f476b)
 
 ![2](https://github.com/user-attachments/assets/4a397c93-c2f1-438b-b0fc-fea410469778)
